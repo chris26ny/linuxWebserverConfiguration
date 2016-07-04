@@ -7,7 +7,9 @@
 2200
 
 #### URL 
-ec2-52-25-200-150.us-west-2.compute.amazonaws.com/login
+ec2-52-25-200-150.us-west-2.compute.amazonaws.com/login 
+
+*working out a bug on index page which should check if a user is still logged in and if not, redirects to login page. For now, head straight to login.*
 
 #### packages installed
 finger,
