@@ -45,7 +45,7 @@ oauth2
 - installed postgresql and disabled remote connection
 - created postgres user 'catalog' with sole permision to manage database
 - logged in with 'catalog' user and created the catalog database
-- ran databe_setup.py to create neccessary tables
+- ran database_setup.py to create neccessary tables
 - logged onto google dev console and added public IP and AWS url to oauth2 credentials
 
 App is now running at location listed above.
