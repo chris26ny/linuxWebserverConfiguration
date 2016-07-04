@@ -23,7 +23,7 @@ oauth2
 
 ### Configuration summary
 
-- setup SSH access into virtual machine development environment provided by Udacity as 52.25.200.150
+- setup SSH access for virtual machine dev environment provided by Udacity
 - dropped private key file to .ssh folder, granted owner read/write permissions and SSH'd into the instance
 - created new user 'grader' with permission to sudo
 - updated installed packages
