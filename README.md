@@ -9,7 +9,7 @@
 #### URL 
 ec2-52-25-200-150.us-west-2.compute.amazonaws.com/login 
 
-*Head straight to login page via above url.  Still working out a bug in how the index page handles users who are not logged in yet*
+*Head straight to login page via above url.  Still working out a bug in how the index page handles users who are not already logged in*
 
 #### packages installed
 finger,
