@@ -51,3 +51,11 @@ oauth2
 - logged onto google dev console and added public IP and AWS url to oauth2 credentials
 
 App is now running at location listed above.
+
+#### External Resources
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
+- http://askubuntu.com/questions/16650/create-a-new-ssh-user-on-ubuntu-server
+- http://www.tutorialspoint.com/postgresql/
+- https://github.com/elnobun/Linux-Server-Configuration
+- Udacity forums
